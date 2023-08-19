@@ -54,7 +54,7 @@ export default function Questions() {
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-4" >
-              <AccordionTrigger className={"hover:text-[#FA5959] font-medium text-base"}>
+              <AccordionTrigger className={"hover:text-[#FA5959] font-medium text-base text-start"}>
              What about other Chromium browser ?
               </AccordionTrigger>
               <AccordionContent className={"text-gray-600"}>
