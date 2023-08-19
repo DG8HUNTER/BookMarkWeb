@@ -22,8 +22,8 @@ export default function Questions() {
               "w-full sm:w-[50%] text-base text-[#9194A2] py-4  text-center"
             }
           >
-            Here are some of our FAQs. If you have any other questions you'd
-            like answered please feel free to email us.
+          {`  Here are some of our FAQs. If you have any other questions you'd
+            like answered please feel free to email us.`}
           </p>
 
           <Accordion type="single" collapsible className="w-full sm:w-[50%] ">
