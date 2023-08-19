@@ -28,7 +28,7 @@ export default function Questions() {
 
           <Accordion type="single" collapsible className="w-full sm:w-[50%] ">
             <AccordionItem value="item-1">
-              <AccordionTrigger className={"hover:text-[#FA5959] font-medium text-sm   sm:text-base"}>What is Bookmark</AccordionTrigger>
+              <AccordionTrigger className={"hover:text-[#FA5959] font-medium text-base"}>What is Bookmark</AccordionTrigger>
               <AccordionContent className={"text-gray-600"}>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Excepturi perspiciatis itaque ab similique error velit rem
@@ -36,7 +36,7 @@ export default function Questions() {
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-2">
-              <AccordionTrigger className={"hover:text-[#FA5959] font-medium text-sm   sm:text-base"}>
+              <AccordionTrigger className={"hover:text-[#FA5959] font-medium text-base"}>
                 How can i request a new browser ?
               </AccordionTrigger>
               <AccordionContent className={"text-gray-600"}>
@@ -47,14 +47,14 @@ export default function Questions() {
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-3" >
-              <AccordionTrigger className={"hover:text-[#FA5959] font-medium text-sm   sm:text-base"}>Is there a mobile app</AccordionTrigger>
+              <AccordionTrigger className={"hover:text-[#FA5959] font-medium text-base"}>Is there a mobile app</AccordionTrigger>
               <AccordionContent className={"text-gray-600"}>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum,
                 corrupti.
               </AccordionContent>
             </AccordionItem>
             <AccordionItem value="item-4" >
-              <AccordionTrigger className={"hover:text-[#FA5959] font-medium text-sm   sm:text-base"}>
+              <AccordionTrigger className={"hover:text-[#FA5959] font-medium text-base"}>
              What about other Chromium browser ?
               </AccordionTrigger>
               <AccordionContent className={"text-gray-600"}>
